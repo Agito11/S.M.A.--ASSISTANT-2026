@@ -1,4 +1,4 @@
-# Nesoor Assistant
+# AI Powered Business Chat ASsistant
 
 Multilingual FAQ Assistant using:
 - Language Detection
