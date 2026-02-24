@@ -16,7 +16,7 @@ class ModernChatGUI(ctk.CTk):
         super().__init__()
 
         # إعداد النافذة
-        self.title("S.M.A. — Assistant")
+        self.title("AI Powered Business Chat Assistant")
         self.geometry("1000x750")
         
         # الشبكة
@@ -38,7 +38,7 @@ class ModernChatGUI(ctk.CTk):
         
         self.header_label = ctk.CTkLabel(
             self.header_frame, 
-            text="S.M.A. AI Assistant", 
+            text="AI Powered Business Chat Assistant", 
             font=("Segoe UI", 22, "bold"),
             text_color="white"
         )
