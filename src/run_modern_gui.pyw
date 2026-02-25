@@ -16,7 +16,7 @@ class ModernChatGUI(ctk.CTk):
         super().__init__()
 
         # إعداد النافذة
-        self.title("S.M.A. — Assistant")
+        self.title("AI Powered Business Chat Assistant")
         self.geometry("1000x750")
         
         # الشبكة
